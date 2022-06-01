@@ -1,0 +1,8 @@
+empresa1;5;120;80
+empresa2;6;20;80
+empresa3;7;220;80
+empresa4;8;90;80
+empresa5;9;100;80
+empresa6;10;110;80
+empresa7;11;75;80
+empresa8;12;185;80

@@ -1,0 +1,7 @@
+﻿  praticalTest1.cpp
+D:\binaryTree\praticalTest1\praticalTest1\praticalTest1.cpp(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinição de macro
+D:\binaryTree\praticalTest1\praticalTest1\praticalTest1.cpp(3,1): message : '_CRT_SECURE_NO_WARNINGS' declarado anteriormente na linha de comando
+D:\binaryTree\praticalTest1\praticalTest1\praticalTest1.cpp(93,39): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+D:\binaryTree\praticalTest1\praticalTest1\praticalTest1.cpp(108,9): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 3 tem o tipo 'double'
+D:\binaryTree\praticalTest1\praticalTest1\praticalTest1.cpp(108,9): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 4 tem o tipo 'double'
+  praticalTest1.vcxproj -> D:\binaryTree\praticalTest1\x64\Debug\praticalTest1.exe
